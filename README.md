@@ -1,3 +1,5 @@
+# hi, my name is tasneem iam from tafila , iam graduated from AHU university as aradiologist in 2019 ;iam 22 years old.
+
 # learing-Journal
 ##  growth mindset describe the underlying beliefs people have about learning and intelligence, When we believe we can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement
 ##  believing that we can cultivate those same skills and qualities through long-term dedication and effort.
