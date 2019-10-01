@@ -9,10 +9,8 @@
 ## Every computer will come with its own text editor. On Mac computers, the text editor that comes with your computer is called,Text Edit, On Windows computers, the text editor that comes with your computer is called, “Notepad.”
 
 ## While you certainly can use Notepad and Text Edit to make websites, there are other text editors available that might help you code more
-efficiently. I invite you to judge for yourself and form your own opinion.
 
-##  **when using the text editors that come on your computer, that there are no special bells or whistles at all. I think you’ll find that there is no code completion. But what that means is
-your text editor won’t assist you in finding your mistakes. You’ll have to discover them on your own.**
+## **when using the text editors that come on your computer, that there are no special bells or whistles at all. I think you’ll find that there is no code completion. But what that means is your text editor won’t assist you in finding your mistakes. You’ll have to discover them on your own.**
 
 **The Difference Between Text Editors and IDEs**
 
