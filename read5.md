@@ -37,6 +37,27 @@ green, and blue. To find the color you want, you can use a color picker**
 colors, it is important to ensure that there is
 enough contrast for the text to be legible (low,high,medium)*
   
+  **If text is reversed out (a light color on a dark background), you
+can increase the height between lines and the weight of the font
+to make it easier to read.**
+
+## HSL Colors
+
+*hue:
+(circle of color)In HSL colors, hue is often
+represented as a color circle
+where the angle represents the
+color
+
+![](https://static.cse.canva.com/_next/static/assets/complementary-colors.1356x780.b51121cbd0db026c40b061d3d8833f20.png)
+
+*saturation:
+Saturation is the amount of
+gray in a color
+*ligh tness:
+Lightness is the amount of
+white (lightness) or black
+(darkness) in a color
   
   ## *for more : https://htmlcolorcodes.com/*
   
