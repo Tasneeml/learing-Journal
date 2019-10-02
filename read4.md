@@ -41,3 +41,23 @@ If you ask a client who a site is for, it is not uncommon for them to answer "th
 * concise
 * clear
 * selective 
+
+# HTML5 Layout :
+## HTML5 is introducing a new set of elements that help define the structure of a page.
+**TradiTionaL HTML LayouTs:**
+**HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them**
+
+## Headers & FooTers:
+**The <header> and <footer> elements can be used for:
+The main header or footer that appears at the top or bottom of every page on the site. A header or footer for an  individual <article> or <section> within the page**
+  
+  ## navigaTion <nav>
+  **The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation**
+  
+  ## article:
+  **The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated**
+  and so on.....
+  
+  
+  
+
