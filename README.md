@@ -1,6 +1,7 @@
-## my name is tasneem iam 22year old iam from tafila iam gradusted from AHU as a radiologist .
+#learning-jornals 
 
-##  growth mindset describe the underlying beliefs people have about learning and intelligence, When we believe we can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement
+
+#  growth mindset describe the underlying beliefs people have about learning and intelligence, When we believe we can get smarter, they understand that effort makes them stronger. Therefore they put in extra time and effort, and that leads to higher achievement
 ##  believing that we can cultivate those same skills and qualities through long-term dedication and effort.
 ![](https://qph.fs.quoracdn.net/main-qimg-47821acb8d21d9d2c76315de46a1cc93)
 
@@ -38,13 +39,23 @@
 1. Never speculate
 
 | Tables         | 
+
 | ------------- |
+
 | Learning Markdown.md     | 
+
 |    README.md   | 
-|       hello-world.md |     |   
+
+|       hello-world.md |   
+  
 | love.md  |  
+
 | mom.md |
+
 | read2.md |
+
 | read3.md |
+
 | read5.md|
+
 | tasneem.md |
