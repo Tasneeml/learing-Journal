@@ -33,8 +33,8 @@ If you ask a client who a site is for, it is not uncommon for them to answer "th
 ## is a simple sketch of the key information that needs to go on each page of a site. 
 ![](https://cdn2.vectorstock.com/i/1000x1000/95/51/content-wireframe-components-for-prototypes-vector-13769551.jpg)
 
-#getting your message across using Design:
-** Organizing and prioritizing information on a page helps users understand its importance and what order to read it in**
+# getting your message across using Design:
+**Organizing and prioritizing information on a page helps users understand its importance and what order to read it in**
 
 # Designing navigation:
 
