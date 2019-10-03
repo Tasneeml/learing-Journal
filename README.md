@@ -54,4 +54,9 @@
 
 | read5.md| https://tasneeml.github.io/learing-Journal/read5 |
 
+<<<<<<< HEAD
 | tasneem.md | https://tasneeml.github.io/learing-Journal/tasneem |
+=======
+| tasneem.md | https://tasneeml.github.io/learing-Journal/tasneem |
+ 
+>>>>>>> 26161c86763edcd4d015727effad09b332eb5259
