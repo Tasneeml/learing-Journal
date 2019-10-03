@@ -38,22 +38,20 @@
 
 1. Never speculate
 
-| Tables         | 
+| Tables         | links       |
 
-| Learning Markdown.md     | 
+| Learning Markdown.md     | https://tasneeml.github.io/learing-Journal/Learning%20Markdown  |
 
-|    README.md   | 
+|       hello-world.md |   https://tasneeml.github.io/learing-Journal/hello-world |
 
-|       hello-world.md |   
-  
-| love.md  |  
+| love.md  |  https://tasneeml.github.io/learing-Journal/love |
 
-| mom.md |
+| mom.md | https://tasneeml.github.io/learing-Journal/mom |
 
-| read2.md |
+| read2.md | https://tasneeml.github.io/learing-Journal/read2 |
 
-| read3.md |
+| read3.md | https://tasneeml.github.io/learing-Journal/read3 |
 
-| read5.md|
+| read5.md| https://tasneeml.github.io/learing-Journal/read5 |
 
-| tasneem.md |
+| tasneem.md | https://tasneeml.github.io/learing-Journal/tasneem |
