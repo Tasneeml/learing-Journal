@@ -47,20 +47,19 @@ Learning-jornals
 
 | Tables         | links       |
 
-| Learning Markdown.md     | [Learning Markdown.md](https://tasneeml.github.io/learing-Journal/Learning%20Markdown)  |
-
+| Learning Markdown.md     | [Learning Markdown.md]( https://tasneeml.github.io/learing-Journal/Learning Markdown)
 |       hello-world.md | [hello-world.md](https://tasneeml.github.io/learing-Journal/hello-world) |
 
-| love.md  | [love.md](https://tasneeml.github.io/learing-Journal/love) |
+| love.md  | [love]( https://tasneeml.github.io/learing-Journal/love) |
 
-| mom.md |  [mom.md](https://tasneeml.github.io/learing-Journal/mom) |
+| mom.md |  [mom]( https://tasneeml.github.io/learing-Journal/mom) |
 
-| read2.md | [read2.md](https://tasneeml.github.io/learing-Journal/read2) |
+| read2.md | [read2] (https://tasneeml.github.io/learing-Journal/read2) |
 
-| read3.md |  [read3.md](https://tasneeml.github.io/learing-Journal/read3) |
+| read3.md |  [read3]( https://tasneeml.github.io/learing-Journal/read3) |
 
-| read5.md|  [read5.md](https://tasneeml.github.io/learing-Journal/read5) |
-| tasneem.md  | [tasneem.md](https://tasneeml.github.io/learing-Journal/tasneem) |
+| read5.md|  [read5]( https://tasneeml.github.io/learing-Journal/read5) |
+| tasneem.md  | [tasneem]( https://tasneeml.github.io/learing-Journal/tasneem) |
  </p>
 </body>
 </html>
